@@ -45,13 +45,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<h3 align="left">🌐 Let's Connect!</h3>
+Feel free to connect with me on social media platforms listed above or reach out to collaborate on exciting projects.
 
 ###
 
