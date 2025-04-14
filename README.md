@@ -51,7 +51,7 @@ Feel free to connect with me on social media platforms listed above or reach out
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="model.png"  />
 </div>
 
 ###
